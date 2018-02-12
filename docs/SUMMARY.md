@@ -1,3 +1,3 @@
 ## Summary
 
-* [Cats](docs/test.html)
+* [Cats](test.html)
