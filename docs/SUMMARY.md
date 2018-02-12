@@ -1,3 +1,3 @@
 ## Summary
 
-* [Cats](test.html)
+!INCLUDE "test.html"

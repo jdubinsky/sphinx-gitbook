@@ -3,5 +3,6 @@
     "gitbook": ">= 3.0.0",
     "structure": {
         "summary": "SUMMARY.md"
-    }
+    },
+    "plugins": [ "include-html" ]
 }
